@@ -1,4 +1,4 @@
-👩‍💻 About Me
+https://github.com/Nethravathi-262005/Nethravathi-262005👩‍💻 About Me
 
 ✨ Computer Science student passionate about technology
 🚀 Aspiring Full Stack Developer
