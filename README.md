@@ -1,12 +1,43 @@
-- 👋 Hi, I’m Nethravathi
-- 👀 I’m interested in exploring technology.
-- 🌱 I’m currently learning Bachelore of Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👩‍💻 About Me
 
-<!---
-Nethravathi-262005/Nethravathi-262005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Computer Science student passionate about technology
+🚀 Aspiring Full Stack Developer
+📚 Currently building real-world projects and strengthening DSA & development skills
+🌱 Love learning new tools, frameworks, and best practices
+
+🧠 Currently Learning
+
+🔹 Frontend Development
+🔹 Backend & APIs
+🔹 Database design
+🔹 System thinking & clean code
+
+🎯 Tech Skills
+
+Languages:
+💻 C(Basic), JavaScript(Basic)
+
+Frontend:
+🌐 HTML, CSS
+
+Backend:
+⚙️ Node.js (Basics)
+
+Database:
+🗄️ MongoDB
+
+Tools:
+🛠️ Git, GitHub, VS Code
+
+💼 Projects & Experience
+
+📘 Developing academic & mini projects
+🏫 Working on amazon clone project
+🤝 Team collaboration & documentation practice
+
+📈 Goals
+
+🎯 Become a professional Full Stack Developer
+🚀 Contribute to impactful real-world applications
+📚 Keep improving through continuous learning
+
